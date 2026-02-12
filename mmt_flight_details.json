@@ -1,0 +1,79 @@
+{
+  "platform": "Make My Trip",
+  "search_query": {
+    "from": "DEL",
+    "to": "MAA",
+    "date": "2026-03-12",
+    "search_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E"
+  },
+  "scraped_at": "2026-02-12T14:42:27.655735",
+  "total_flights": 3,
+  "flights": [
+    {
+      "flight_number": 1,
+      "platform": "Make My Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E 2579",
+      "departure": {
+        "time": "16:15",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "18:55",
+        "city": "N/A"
+      },
+      "duration": "02h 40m",
+      "stops": 0,
+      "price": {
+        "amount": 6105,
+        "currency": "INR",
+        "formatted": "₹6,105"
+      },
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E"
+    },
+    {
+      "flight_number": 2,
+      "platform": "Make My Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E 2229",
+      "departure": {
+        "time": "09:30",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "12:20",
+        "city": "N/A"
+      },
+      "duration": "02h 50m",
+      "stops": 0,
+      "price": {
+        "amount": 6218,
+        "currency": "INR",
+        "formatted": "₹6,218"
+      },
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E"
+    },
+    {
+      "flight_number": 3,
+      "platform": "Make My Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E 6239",
+      "departure": {
+        "time": "11:00",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "13:45",
+        "city": "N/A"
+      },
+      "duration": "02h 45m",
+      "stops": 0,
+      "price": {
+        "amount": 6218,
+        "currency": "INR",
+        "formatted": "₹6,218"
+      },
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E"
+    }
+  ]
+}

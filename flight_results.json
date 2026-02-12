@@ -1,0 +1,115 @@
+{
+  "query": {
+    "from_city": "DEL",
+    "to_city": "MAA",
+    "departure_date": "2026-03-12",
+    "raw_query": "Flight from delhi to chennai on 12 March"
+  },
+  "all_flights": [
+    {
+      "airline": "IndiGo",
+      "price": 6105.0,
+      "departure_time": "16:15",
+      "arrival_time": "18:55",
+      "duration": "02h 40m",
+      "stops": 0,
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E",
+      "source": "makemytrip",
+      "scraped_at": "2026-02-12 14:42:27.656063"
+    },
+    {
+      "airline": "IndiGo",
+      "price": 6218.0,
+      "departure_time": "09:30",
+      "arrival_time": "12:20",
+      "duration": "02h 50m",
+      "stops": 0,
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E",
+      "source": "makemytrip",
+      "scraped_at": "2026-02-12 14:42:27.656109"
+    },
+    {
+      "airline": "IndiGo",
+      "price": 6218.0,
+      "departure_time": "11:00",
+      "arrival_time": "13:45",
+      "duration": "02h 45m",
+      "stops": 0,
+      "booking_url": "https://www.makemytrip.com/flight/search?itinerary=DEL-MAA-12/03/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E",
+      "source": "makemytrip",
+      "scraped_at": "2026-02-12 14:42:27.656125"
+    },
+    {
+      "airline": "SpiceJet",
+      "price": 5500.0,
+      "departure_time": "19:40",
+      "arrival_time": "23:50",
+      "duration": "04h 10m",
+      "stops": 0,
+      "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+      "source": "easemytrip",
+      "scraped_at": "2026-02-12 14:42:54.749046"
+    },
+    {
+      "airline": "SpiceJet",
+      "price": 8477.0,
+      "departure_time": "10:30",
+      "arrival_time": "08:50",
+      "duration": "22h 20m",
+      "stops": 0,
+      "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+      "source": "easemytrip",
+      "scraped_at": "2026-02-12 14:42:54.749077"
+    },
+    {
+      "airline": "SpiceJet",
+      "price": 8477.0,
+      "departure_time": "22:20",
+      "arrival_time": "08:50",
+      "duration": "10h 30m",
+      "stops": 0,
+      "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+      "source": "easemytrip",
+      "scraped_at": "2026-02-12 14:42:54.749092"
+    },
+    {
+      "airline": "SpiceJet",
+      "price": 8849.0,
+      "departure_time": "22:00",
+      "arrival_time": "17:10",
+      "duration": "19h 10m",
+      "stops": 0,
+      "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+      "source": "easemytrip",
+      "scraped_at": "2026-02-12 14:42:54.749104"
+    },
+    {
+      "airline": "SpiceJet",
+      "price": 9431.0,
+      "departure_time": "06:30",
+      "arrival_time": "00:50",
+      "duration": "18h 20m",
+      "stops": 0,
+      "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+      "source": "easemytrip",
+      "scraped_at": "2026-02-12 14:42:54.749115"
+    }
+  ],
+  "cheapest_flight": {
+    "airline": "SpiceJet",
+    "price": 5500.0,
+    "departure_time": "19:40",
+    "arrival_time": "23:50",
+    "duration": "04h 10m",
+    "stops": 0,
+    "booking_url": "https://flight.easemytrip.com/FlightList/Index?srch=DEL-Delhi-India|MAA-Chennai-India|12/03/2026&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=",
+    "source": "easemytrip",
+    "scraped_at": "2026-02-12 14:42:54.749046"
+  },
+  "total_results": 8,
+  "sources_checked": [
+    "makemytrip",
+    "easemytrip"
+  ],
+  "timestamp": "2026-02-12 14:42:58.597350"
+}

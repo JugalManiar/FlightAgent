@@ -1,0 +1,10 @@
+2026/02/12-14:42:47.655 fcab99 Reusing MANIFEST /Users/jugal.maniar/Desktop/flip-flight/emt_session/Default/IndexedDB/https_flight.easemytrip.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/12-14:42:47.655 fcab99 Recovering log #7
+2026/02/12-14:42:47.671 fcab99 Reusing old log /Users/jugal.maniar/Desktop/flip-flight/emt_session/Default/IndexedDB/https_flight.easemytrip.com_0.indexeddb.leveldb/000007.log 
+2026/02/12-14:42:48.089 fcaba4 Level-0 table #12: started
+2026/02/12-14:42:48.106 fcaba4 Level-0 table #12: 809865 bytes OK
+2026/02/12-14:42:48.110 fcaba4 Delete type=0 #7
+2026/02/12-14:42:48.131 fcab9b Compacting 1@1 + 1@2 files
+2026/02/12-14:42:48.140 fcab9b Generated table #13@1: 5540 keys, 400682 bytes
+2026/02/12-14:42:48.140 fcab9b Compacted 1@1 + 1@2 files => 400682 bytes
+2026/02/12-14:42:48.141 fcab9b compacted to: files[ 0 0 1 0 0 0 0 ]

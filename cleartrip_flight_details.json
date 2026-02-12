@@ -1,0 +1,189 @@
+{
+  "platform": "Clear Trip",
+  "search_query": {
+    "from": "IXR",
+    "to": "PNQ",
+    "date": "2026-02-14",
+    "search_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+  },
+  "scraped_at": "2026-02-04T20:36:19.987845",
+  "total_flights": 8,
+  "flights": [
+    {
+      "flight_number": 1,
+      "platform": "Clear Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E-191",
+      "departure": {
+        "time": "05:45",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "09h 45m",
+      "stops": 1,
+      "price": {
+        "amount": 7367,
+        "currency": "INR",
+        "formatted": "₹7,367"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 2,
+      "platform": "Clear Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E-191",
+      "departure": {
+        "time": "02:55",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "06h 55m",
+      "stops": 1,
+      "price": {
+        "amount": 7930,
+        "currency": "INR",
+        "formatted": "₹7,930"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 3,
+      "platform": "Clear Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E-328",
+      "departure": {
+        "time": "02:55",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "N/A",
+      "stops": 1,
+      "price": {
+        "amount": 7930,
+        "currency": "INR",
+        "formatted": "₹7,930"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 4,
+      "platform": "Clear Trip",
+      "airline": "Air India Express",
+      "flight_code": "IX-2176",
+      "departure": {
+        "time": "05:20",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "58h 55m",
+      "stops": 1,
+      "price": {
+        "amount": 9128,
+        "currency": "INR",
+        "formatted": "₹9,128"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 5,
+      "platform": "Clear Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E-6184",
+      "departure": {
+        "time": "03:45",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "09h 25m",
+      "stops": 1,
+      "price": {
+        "amount": 10273,
+        "currency": "INR",
+        "formatted": "₹10,273"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 6,
+      "platform": "Clear Trip",
+      "airline": "Air India Express",
+      "flight_code": "IX-1530",
+      "departure": {
+        "time": "05:20",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "13h 45m",
+      "stops": 1,
+      "price": {
+        "amount": 10929,
+        "currency": "INR",
+        "formatted": "₹10,929"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 7,
+      "platform": "Clear Trip",
+      "airline": "IndiGo",
+      "flight_code": "6E-398",
+      "departure": {
+        "time": "16:05",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "06h 35m",
+      "stops": 1,
+      "price": {
+        "amount": 11297,
+        "currency": "INR",
+        "formatted": "₹11,297"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    },
+    {
+      "flight_number": 8,
+      "platform": "Clear Trip",
+      "airline": "Air India",
+      "flight_code": "AI-9696",
+      "departure": {
+        "time": "07:55",
+        "city": "N/A"
+      },
+      "arrival": {
+        "time": "N/A",
+        "city": "N/A"
+      },
+      "duration": "10h 30m",
+      "stops": 1,
+      "price": {
+        "amount": 12182,
+        "currency": "INR",
+        "formatted": "₹12,182"
+      },
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&from=IXR&to=PNQ&depart_date=14/02/2026&intl=n&sd=1"
+    }
+  ]
+}
